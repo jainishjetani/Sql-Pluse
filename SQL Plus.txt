@@ -1,0 +1,14 @@
+this is working for Oracle SQL Pluse ex 
+
+step:
+1) Onpen Commandline:
+	   Go to CommandLine StartMenu->Run->CMD 
+		or
+  	   Right click on StsrtMenu icon and select Run->CMD
+
+2) Write this line in CMD:
+	   sqlplus / as sysdba	
+
+3) Write this Query in CMD :
+	   alter user system identified by Newpasswordheare;
+
