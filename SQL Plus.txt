@@ -10,5 +10,5 @@ step:
 	   sqlplus / as sysdba	
 
 3) Write this Query in CMD :
-	   alter user system identified by Newpasswordheare;
+	   alter user system identified by Newpasswordhere;
 
